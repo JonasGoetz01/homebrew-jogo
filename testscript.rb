@@ -1,8 +1,8 @@
 class Testscript < Formula
   desc ""
   homepage ""
-  url "https://github.com/JonasGoetz01/brew-scripts/archive/refs/tags/v1.0.14.tar.gz"
-  sha256 "541186dfd6dde9b37b1b9973854cfe0fda019a738783fd41a66d8dcf85ec13a0"
+  url "https://github.com/JonasGoetz01/brew-scripts/archive/refs/tags/v1.0.15.tar.gz"
+  sha256 "1110700f9a8c2b49e2846c3c570c308ec3d4442ab974451ebb02f447bb5cd276"
   license ""
   def install
     bin.install "testscript"
